@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
+<svg version="1.1" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="400px" height="400px" viewBox="0 0 400 400" overflow="scroll" xml:space="preserve">
+<g id="Circle_outline" display="none">
+	<circle display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" cx="200" cy="201" r="195"/>
+	<circle display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" cx="200" cy="201" r="146"/>
+</g>
+<g id="Blue_Circle">
+	<path fill="#34A59D" d="M200,6C92.304,6,5,93.304,5,201s87.304,195,195,195s195-87.305,195-195S307.696,6,200,6z M200,347
+		c-80.634,0-146-65.366-146-146S119.366,55,200,55s146,65.366,146,146S280.634,347,200,347z"/>
+</g>
+<g id="Blue_Circle_copy_2" display="none">
+	<path display="inline" fill="#FEE79B" d="M200,6C92.304,6,5,93.304,5,201s87.304,195,195,195s195-87.305,195-195S307.696,6,200,6z
+		 M200,347c-80.634,0-146-65.366-146-146S119.366,55,200,55s146,65.366,146,146S280.634,347,200,347z"/>
+</g>
+<g id="Blue_Circle_copy">
+</g>
+<g id="Layer_4" display="none">
+	<polyline display="inline" fill="none" points="212.506,3.5 21.294,6 11.506,141 92.5,5.069 211.506,198 212.506,199 212.506,-1 	
+		"/>
+</g>
+<g id="Layer_6">
+	<path fill="#3C4241" d="M54,201c0-80.634,65.366-146,146-146V6C92.304,6,5,93.304,5,201s87.304,195,195,195v-49
+		C119.366,347,54,281.634,54,201z"/>
+</g>
+</svg>
